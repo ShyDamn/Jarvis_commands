@@ -1,4 +1,6 @@
         Список кастомных команд:
+        
+        
     Папка browser:
 -Браузер: открыть
 -Поменять обои Wallpaper Engine (для работы скрипта в настройках WE создайте коллекцию и задайте горячюю клавишу https://steamcommunity.com/sharedfiles/filedetails/?id=2054021252)
