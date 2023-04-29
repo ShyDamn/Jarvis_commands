@@ -1,0 +1,1 @@
+﻿run C:\Program Files\jarvis-app\commands\system\ahk\screenshot.pyw

@@ -1,0 +1,33 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/time.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - время
+  - какое время
+  - который час
+  - назови время
+  - скажи время
+  - сколько времени
+
+- command:
+    action: ahk
+    exe_path: ahk/date.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - дата
+  - какое сегодня число
+  - какой сегодня день
+  - какое число
+  - сегодняшнее число

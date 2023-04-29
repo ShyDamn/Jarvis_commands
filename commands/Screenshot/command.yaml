@@ -1,0 +1,15 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/screenshot.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - сделай скриншот
+  - скрин
+  - скриншот экрана
+  - скрин экрана

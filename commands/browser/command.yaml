@@ -1,0 +1,79 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/Run browser.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой браузер
+  - запусти браузер
+  - открой гугл хром
+  - гугл хром
+
+- command:
+    action: ahk
+    exe_path: ahk/open browser.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой браузер
+  - запусти браузер
+  - открой гугл хром
+  - гугл хром
+  - гугл
+  - браузер
+
+- command:
+    action: ahk
+    exe_path: ahk/open youtube.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой ютуб
+  - ютуб
+  - запусти ютуб
+  - включи ютуб
+
+- command:
+    action: ahk
+    exe_path: ahk/winminimizeall.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - сверни
+  - сверни вкладку
+  - сверни вкладки
+  - сверни браузер
+  - сверни хром
+  - сверни гугл
+
+- command:
+    action: ahk
+    exe_path: ahk/change wallpaper.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - поменяй обои
+  - смени обои
+  - другие обои
+  - новые обои

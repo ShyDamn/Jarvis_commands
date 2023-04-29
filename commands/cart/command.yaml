@@ -1,0 +1,15 @@
+list: 
+name: Очистить корзину
+intent: cart
+- command:
+    action: ahk
+    exe_path: ahk/cart.exe
+  voice:
+    sounds:
+      - ok1
+      - ok2
+      - ok3
+    phrases:
+      - Очистить корзину
+      - Очисти корзину
+      - Удали мусор

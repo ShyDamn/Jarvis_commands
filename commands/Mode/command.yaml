@@ -1,0 +1,66 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/switch back to java.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - джава
+  - пишем код на джава
+  - пишем код на джаве
+  - работа в джава
+  - работаем на джаве
+
+- command:
+    action: ahk
+    exe_path: ahk/switch back to python.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - питон
+  - пишем код на питоне
+  - пишем код на питон
+  - работа в питон
+  - работаем на питоне
+
+- command:
+    action: ahk
+    exe_path: ahk/switch back to web.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - пишем сайт
+  - разрабатываем сайт
+  - работа с пиэйчпи
+  - аштиэмэль
+  - каэсэс
+  - сайт
+  - веб разработка
+  - веб программирование
+
+- command:
+    action: ahk
+    exe_path: ahk/gaming mode on.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - включи игровой режим
+  - перейди в игровой режим
+  - я хочу поиграть
+  - игровой режим
