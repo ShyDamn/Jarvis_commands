@@ -1,3 +1,4 @@
+        JARVIS_MASTER_COMMANDS  
         Список кастомных команд:
         
         
