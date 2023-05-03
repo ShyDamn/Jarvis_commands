@@ -4,4 +4,5 @@
 3. Откройте cmd методом "Win+R" - в поле cmd и Enter
 4. В появившемся окне пропишите путь до исполняемого файла pyw cd C:\Program Files\jarvis-app\commands\Weather\ahk
 5. Установите нужные для работы библиотеки pip install -r requirements.txt
+6. Не забудьте в ahk файле изменить путь!!!
     Теперь скрипт работает
