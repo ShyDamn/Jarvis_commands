@@ -1,7 +1,7 @@
 list:
 - command:
     action: ahk
-    exe_path: ahk/music.exe
+    exe_path: ahk/run music.exe
     exe_args:
   voice:
     sounds:
@@ -22,7 +22,7 @@ list:
 
 - command:
     action: ahk
-    exe_path: ahk/music next.exe
+    exe_path: ahk/next music.exe
     exe_args:
   voice:
     sounds:
@@ -41,7 +41,7 @@ list:
 
 - command:
     action: ahk
-    exe_path: ahk/music off.exe
+    exe_path: ahk/stop music.exe
     exe_args:
   voice:
     sounds:
@@ -59,7 +59,7 @@ list:
 
 - command:
     action: ahk
-    exe_path: ahk/music prev.exe
+    exe_path: ahk/prev music.exe
     exe_args:
   voice:
     sounds:

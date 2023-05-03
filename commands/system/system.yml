@@ -1,0 +1,84 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/cpu.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Загрузка процессора
+  - Какая загрузка процессора
+  - Информация о процессоре
+  - Сведения о процессоре
+
+- command:
+    action: ahk
+    exe_path: ahk/disc_memory.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Сколько памяти на диске
+  - Память диска
+
+- command:
+    action: ahk
+    exe_path: ahk/dic_%.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Загруженность дисков
+  - Диски
+
+- command:
+    action: ahk
+    exe_path: ahk/ethernet.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Использование интернета
+  - Сведения об интернете
+  - Моя раздача
+  - Сведения о раздаче
+
+- command:
+    action: ahk
+    exe_path: ahk/memory.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Использование памяти
+  - Память
+
+- command:
+    action: ahk
+    exe_path: ahk/ram.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - Оперативная память
+  - Использование РАМ
+  - РАМ
+  - Использование оперативной памяти

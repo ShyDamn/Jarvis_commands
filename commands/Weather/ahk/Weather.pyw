@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'api_key' #Ключ яндекс-api
+api_key = 'a7fcd5f1-3270-4acc-849a-bd176ae68b62' #Ключ яндекс-api
 lat, lon = '51.681804', '39.253333' # координаты Воронежа
 
 url = f'https://api.weather.yandex.ru/v2/forecast?lat={lat}&lon={lon}&lang=ru_RU'

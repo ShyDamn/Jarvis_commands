@@ -1,0 +1,17 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/language.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - смени раскладку
+  - поменяй на русский язык
+  - поменяй на английский язык
+  - поменяй раскладку
+  - русская клавиатура
+  - английская клавиатура
