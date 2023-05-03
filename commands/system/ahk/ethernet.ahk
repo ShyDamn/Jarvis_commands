@@ -1,2 +1,2 @@
-﻿Run C:\jarvis-app\commands\system\ahk\ethernet.pyw
+﻿Run ethernet.pyw
 sleep 3000

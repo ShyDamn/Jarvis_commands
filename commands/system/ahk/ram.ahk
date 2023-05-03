@@ -1,2 +1,2 @@
-﻿Run C:\jarvis-app\commands\system\ahk\ram.pyw
+﻿Run ram.pyw
 sleep 3000

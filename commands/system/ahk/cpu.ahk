@@ -1,2 +1,2 @@
-﻿Run C:\jarvis-app\commands\system\ahk\cpu.pyw
+﻿Run cpu.pyw
 sleep 3000
