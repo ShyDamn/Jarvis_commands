@@ -1,0 +1,10 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/OpenURL.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok5
+  phrases:
+  - алохамора

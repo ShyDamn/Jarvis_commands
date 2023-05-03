@@ -1,0 +1,4 @@
+speechrecognition
+googlesearch-python
+pyautogui
+tkinter
